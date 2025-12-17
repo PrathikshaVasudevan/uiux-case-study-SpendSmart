@@ -17,6 +17,11 @@ To design a clean and intuitive expense tracking experience.
 ## Tools Used
 - Figma
 - PowerPoint
+  
+## Wireframes
+This project includes 10 wireframes covering the complete user flow:
+Login → Dashboard → Add Expense → Summary → Reports.
+
 ## Figma Design Link
 🔗 https://www.figma.com/design/vVzPqoJemKx8lR3N03l98W/SpendSmart?node-id=0-1&t=gIzYHY6uTCRH3uUt-1
 

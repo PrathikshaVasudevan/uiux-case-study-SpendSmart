@@ -14,16 +14,21 @@ To design a clean and intuitive expense tracking experience.
 - UI/UX Case Study Presentation (PPT)
 - Low & High Fidelity Wireframes
 
+## Contents
+- Case study presentation (PPT)
+- Wireframes
+- Figma design link
+
 ## Tools Used
 - Figma
 - PowerPoint
   
 ## Wireframes
-This project includes 10 wireframes covering the complete user flow:
-Login → Dashboard → Add Expense → Summary → Reports.
+The Wireframes folder includes 10 screens showing the full user flow from onboarding to tracking expenses.
+
 
 ## Figma Design Link
-🔗 https://www.figma.com/design/vVzPqoJemKx8lR3N03l98W/SpendSmart?node-id=0-1&t=gIzYHY6uTCRH3uUt-1
+🔗**Design File**: https://www.figma.com/design/vVzPqoJemKx8lR3N03l98W/SpendSmart?node-id=0-1&t=gIzYHY6uTCRH3uUt-1
 
 ## How to View
 Download and open the PPT from the Presentation folder.

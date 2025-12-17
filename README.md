@@ -17,6 +17,8 @@ To design a clean and intuitive expense tracking experience.
 ## Tools Used
 - Figma
 - PowerPoint
+## Figma Design Link
+🔗 https://www.figma.com/design/vVzPqoJemKx8lR3N03l98W/SpendSmart?node-id=0-1&t=gIzYHY6uTCRH3uUt-1
 
 ## How to View
 Download and open the PPT from the Presentation folder.
